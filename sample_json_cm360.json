@@ -1,0 +1,65 @@
+{
+    "id": "139848768",
+    "name": "trackingAsset",
+    "renderingId": "139667119",
+    "advertiserId": "10424488",
+    "accountId": "1322207",
+    "subaccountId": "2994931",
+    "active": true,
+    "archived": false,
+    "version": 1,
+    "size": {
+      "id": "31",
+      "width": 1,
+      "height": 1,
+      "iab": false,
+      "kind": "dfareporting#size"
+    },
+    "kind": "dfareporting#creative",
+    "lastModifiedInfo": {
+      "time": "1603415526119"
+    },
+    "sslCompliant": true,
+    "compatibility": [
+      "DISPLAY"
+    ],
+    "type": "DISPLAY",
+    "creativeAssets": [
+      {
+        "id": "421788397",
+        "assetIdentifier": {
+          "type": "HTML_IMAGE",
+          "name": "trackingPixel.gif"
+        },
+        "sslCompliant": true,
+        "size": {
+          "id": "31",
+          "width": 1,
+          "height": 1,
+          "iab": false,
+          "kind": "dfareporting#size"
+        },
+        "fileSize": "42",
+        "role": "PRIMARY"
+      }
+    ],
+    "htmlCodeLocked": true,
+    "mediaDuration": 0,
+    "skippable": false,
+    "autoAdvanceImages": false,
+    "idDimensionValue": {
+      "dimensionName": "creativeId",
+      "value": "139848768",
+      "kind": "dfareporting#dimensionValue",
+      "etag": "ec5a2689e666f23c8a407f0e4b737af7b55f4bd8"
+    },
+    "renderingIdDimensionValue": {
+      "dimensionName": "renderingId",
+      "value": "139667119",
+      "kind": "dfareporting#dimensionValue",
+      "etag": "08baca187cb8a31417bda714cf81f06d79fb8bac"
+    },
+    "sslOverride": false,
+    "dynamicAssetSelection": false
+  }
+  
